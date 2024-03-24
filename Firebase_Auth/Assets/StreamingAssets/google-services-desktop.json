@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "867292848067",
+    "project_id": "tistoryunity2403",
+    "storage_bucket": "tistoryunity2403.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867292848067:android:8561ef6abf5901c9da6776",
+        "android_client_info": {
+          "package_name": "glorygem.tistory.unity2403"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3vSlmqg5zxoz0nCGB0LghcPNde9mE1Rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
