@@ -33,4 +33,9 @@ public class Login : MonoBehaviour
     {
         auth.SignInWithEmailAndPasswordAsync("inputEmail@gmail.com", "inputPassword");
     }
+
+    public void Login_Anonymous()
+    {
+        auth.SignInAnonymouslyAsync();
+    }
 }
